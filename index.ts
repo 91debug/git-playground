@@ -1,5 +1,3 @@
-const helloWorld: string = "Hello Git";
-
 const compose = (...functions) => x => functions.reduceRight((y, f) => f(y), x);
 
 const f = x => x * 2;

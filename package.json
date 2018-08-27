@@ -1,0 +1,14 @@
+{
+  "name": "git-playground",
+  "version": "1.0.0",
+  "description": "git playground",
+  "main": "index.js",
+  "repository": "https://github.com/91debug/git-playground.git",
+  "author": "jiseung",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "ts-node": "^7.0.1",
+    "typescript": "^3.0.1"
+  }
+}

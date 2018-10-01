@@ -1,3 +1,11 @@
-const helloWorld: string = "Hello Git #7 issue #7 issue #7 issue #7 issue #7 issue #7 issue #7 issue";
+const compose = (...functions) => x => functions.reduceRight((y, f) => f(y), x);
 
-console.log(helloWorld);
+const f = x => x * 2;
+const g = x => x + 2;
+
+const h = compose(f, g);
+
+const ret: number = h(2);
+
+console.log(ret);
+console.log('test');

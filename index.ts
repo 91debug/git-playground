@@ -10,3 +10,4 @@ const ret: number = h(2);
 console.log(ret);
 console.log("test");
 console.log("hihi");
+console.log("staging...");

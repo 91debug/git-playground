@@ -8,4 +8,5 @@ const h = compose(f, g);
 const ret: number = h(2);
 
 console.log(ret);
-console.log('test');
+console.log("test");
+console.log("hihi");

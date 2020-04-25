@@ -1,9 +1,7 @@
-const a = {
-  test: "",
-} as any;
-
-if (a?.test) {
-  console.log(a);
+const a = 1;
+if (a) {
+  const b = 2;
+  console.log(b);
 }
 
 const c = 1;

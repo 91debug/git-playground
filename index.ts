@@ -5,3 +5,5 @@ const a = {
 if (a?.test) {
   console.log(a);
 }
+
+const c = 1;

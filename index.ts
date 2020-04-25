@@ -6,3 +6,4 @@ if (a) {
 
 const c = 1;
 const d = 1;
+const q = 1;

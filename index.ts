@@ -7,3 +7,4 @@ if (a?.test) {
 }
 
 const c = 1;
+const d = 1;

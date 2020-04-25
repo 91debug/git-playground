@@ -1,21 +1,12 @@
-# OSX
-#
-.DS_Store
-
-# node.js
-#
+.dist/
 node_modules/
-npm-debug.log
+.uploads/
+.env
+.DS_Store
+/.DS_Store
+seed.spec.js
+.DS_Store
 yarn-error.log
 
-# vscode
 .vscode/
-
-# temp
-#
-dist/
-prod_dist/
-.build/
-build/
-tmp/
-temp/
+settongs.json

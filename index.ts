@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const a = 1;
 if (a) {
   const b = 2;
@@ -11,3 +12,6 @@ const w = `
 12
 3
 `;
+=======
+const a = 123;
+>>>>>>> feature/F-2

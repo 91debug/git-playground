@@ -5,3 +5,5 @@ const w = `
 6
 71
 `;
+
+const a = 1;
